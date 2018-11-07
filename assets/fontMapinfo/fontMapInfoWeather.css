@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MapInfoWeather';
+  src: url('MapInfoWeather.eot');
+  src: url('MapInfoWeather.woff2') format('woff2'),
+       url('MapInfoWeather.woff') format('woff'),
+       url('MapInfoWeather.ttf') format('truetype'),
+       url('MapInfoWeather.svg#MapInfoWeather') format('svg'),
+       url('MapInfoWeather.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

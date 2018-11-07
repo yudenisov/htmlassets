@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MapInfoTransportation';
+  src: url('MapInfoTransportation.eot');
+  src: url('MapInfoTransportation.woff2') format('woff2'),
+       url('MapInfoTransportation.woff') format('woff'),
+       url('MapInfoTransportation.ttf') format('truetype'),
+       url('MapInfoTransportation.svg#MapInfoTransportation') format('svg'),
+       url('MapInfoTransportation.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

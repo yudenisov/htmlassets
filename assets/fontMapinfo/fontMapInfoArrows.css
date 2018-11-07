@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MapInfoArrows';
+  src: url('MapInfoArrows.eot');
+  src: url('MapInfoArrows.woff2') format('woff2'),
+       url('MapInfoArrows.woff') format('woff'),
+       url('MapInfoArrows.ttf') format('truetype'),
+       url('MapInfoArrows.svg#MapInfoArrows') format('svg'),
+       url('MapInfoArrows.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

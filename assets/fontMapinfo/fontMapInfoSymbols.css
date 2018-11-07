@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MapInfoSymbols';
+  src: url('MapInfoSymbols.eot');
+  src: url('MapInfoSymbols.woff2') format('woff2'),
+       url('MapInfoSymbols.woff') format('woff'),
+       url('MapInfoSymbols.ttf') format('truetype'),
+       url('MapInfoSymbols.svg#MapInfoSymbols') format('svg'),
+       url('MapInfoSymbols.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

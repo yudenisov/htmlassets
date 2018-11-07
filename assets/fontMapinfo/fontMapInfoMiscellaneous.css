@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MapInfoMiscellaneous';
+  src: url('MapInfoMiscellaneous.eot');
+  src: url('MapInfoMiscellaneous.woff2') format('woff2'),
+       url('MapInfoMiscellaneous.woff') format('woff'),
+       url('MapInfoMiscellaneous.ttf') format('truetype'),
+       url('MapInfoMiscellaneous.svg#MapInfoMiscellaneous') format('svg'),
+       url('MapInfoMiscellaneous.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

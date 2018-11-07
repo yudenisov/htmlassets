@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MapInfoRealEstate';
+  src: url('MapInfoRealEstate.eot');
+  src: url('MapInfoRealEstate.woff2') format('woff2'),
+       url('MapInfoRealEstate.woff') format('woff'),
+       url('MapInfoRealEstate.ttf') format('truetype'),
+       url('MapInfoRealEstate.svg#MapInfoRealEstate') format('svg'),
+       url('MapInfoRealEstate.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

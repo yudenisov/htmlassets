@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MapInfoOil&Gas';
+  src: url('MapInfoOil&Gas.eot');
+  src: url('MapInfoOil&Gas.woff2') format('woff2'),
+       url('MapInfoOil&Gas.woff') format('woff'),
+       url('MapInfoOil&Gas.ttf') format('truetype'),
+       url('MapInfoOil&Gas.svg#MapInfoOil&Gas') format('svg'),
+       url('MapInfoOil&Gas.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

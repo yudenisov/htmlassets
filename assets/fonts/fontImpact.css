@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Impact';
+  src: url('Impact.eot');
+  src: url('Impact.woff2') format('woff2'),
+       url('Impact.woff') format('woff'),
+       url('Impact.ttf') format('truetype'),
+       url('Impact.svg#Impact') format('svg'),
+       url('Impact.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

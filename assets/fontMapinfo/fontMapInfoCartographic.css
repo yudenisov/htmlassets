@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MapInfoCartographic';
+  src: url('MapInfoCartographic.eot');
+  src: url('MapInfoCartographic.woff2') format('woff2'),
+       url('MapInfoCartographic.woff') format('woff'),
+       url('MapInfoCartographic.ttf') format('truetype'),
+       url('MapInfoCartographic.svg#MapInfoCartographic') format('svg'),
+       url('MapInfoCartographic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
