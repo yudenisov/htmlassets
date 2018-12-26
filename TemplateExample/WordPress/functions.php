@@ -162,6 +162,7 @@ function template_theme_0001__scripts() {
 	wp_enqueue_style( 'template_theme_0001_-fontCalibri-style', '/assets/fonts/fontCalibri.css', array(), '4.0' );
 	wp_enqueue_style( 'template_theme_0001_-fontImpact-style', '/assets/fonts/fontImpact.css', array(), '4.0' );
 	wp_enqueue_style( 'template_theme_0001_-fontPTSans-style', '/assets/fonts/fontPTSans.css', array(), '4.0' );
+	wp_enqueue_style( 'template_theme_0001_-fontRubik-style', '/assets/fonts/fontRubik.css', array(), '4.0' );
 	wp_enqueue_style( 'template_theme_0001_-fontTahoma-style', '/assets/fonts/fontTahoma.css', array(), '4.0' );
 	wp_enqueue_style( 'template_theme_0001_-fontTrebuchetMS-style', '/assets/fonts/fontTrebuchetMS.css', array(), '4.0' );
 	wp_enqueue_style( 'template_theme_0001_-fontVerdana-style', '/assets/fonts/fontVerdana.css', array(), '4.0' );
