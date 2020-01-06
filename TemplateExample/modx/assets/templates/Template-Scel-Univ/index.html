@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="[[++cultureKey]]">
+<head>
+	<meta charset="[[++modx_charset]]">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<!-- Common Chank -->
+	[[$CommonHead-Univ]]
+	<!-- /Common Chanks/ -->
+	<!-- FontAwesome Chank -->
+	[[!If?
+		&subject=`[[++IsUniv-FontAwesome]]`
+		&operand=`1`
+		&then=`[[$FontAwesomeHead-Univ]]`
+	]]
+	<!-- /FontAwesome Chank/ -->
+	<!-- FontAwesome4 Chank -->
+	[[!If?
+		&subject=`[[++IsUniv-FontAwesome4]]`
+		&operand=`1`
+		&then=`[[$FontAwesome4Head-Univ]]`
+	]]
+	<!-- /FontAwesome4 Chank/ -->
+	<!-- Bootstrap-css Chank -->
+	[[!If?
+		&subject=`[[++IsUniv-Bootstrap]]`
+		&operand=`1`
+		&then=`[[$Bootstrap-css-Univ]]`
+	]]
+	<!-- /Bootstrap-css Chank/ -->
+	<!-- Bootstrap3-css Chank -->
+	[[!If?
+		&subject=`[[++IsUniv-Bootstrap3]]`
+		&operand=`1`
+		&then=`[[$Bootstrap3-css-Univ]]`
+	]]
+	<!-- /Bootstrap3-css Chank/ -->
+	<!-- Kube-Css Chank -->
+	[[!If?
+		&subject=`[[++IsUniv-Kube]]`
+		&operand=`1`
+		&then=`[[$Kube-css-Univ]]`
+	]]
+	<!-- /Kube-Css Chanks/ -->
+	<!-- Sceleton-Css Chank -->
+	[[!If?
+		&subject=`[[++IsUniv-Sceleton]]`
+		&operand=`1`
+		&then=`[[$Sceleton-css-Univ]]`
+	]]
+	<!-- /Sceleton-Css Chanks/ -->
+	<!-- Jarallax-Css Chank -->
+	[[!If?
+		&subject=`[[++IsUniv-Jarallax]]`
+		&operand=`1`
+		&then=`[[$Jarallax-css-Univ]]`
+	]]
+	<!-- /Jarallax-Css Chanks/ -->
+	<!-- Mobirise-css Chank -->
+	[[!If?
+		&subject=`[[++IsUniv-Mobirise]]`
+		&operand=`1`
+		&then=`[[$Mobirose-css-Univ]]`
+	]]
+	<!-- /Mobirise-css Chank/ -->
+	<!-- Nonfree-fonts-css Chank -->
+	[[!If?
+		&subject=`[[++IsUniv-NonfreeFonts]]`
+		&operand=`1`
+		&then=`[[$NonfreeFonts-css-Univ]]`
+	]]
+	<!-- /Nonfree-fonts-css Chank/ -->
+	<!-- Open-fonts-css Chank -->
+	[[!If?
+		&subject=`[[++IsUniv-OpenFonts]]`
+		&operand=`1`
+		&then=`[[$OpenFonts-css-Univ]]`
+	]]
+	<!-- /Open-fonts-css Chank/ -->
+
+</head>
+<body>
+[[$Navbar]]
+<!-- [[!printPlaceholders]] -->
+<div class="container">
+	[[If?
+		&subject=`[[*longtitle]]`
+		&operator=`!empty`
+		&then=`<div class="page-header">
+			<h1>[[*longtitle]]</h1>
+		</div>`
+	]]
+	[[!If?
+		&subject=`[[++IsUniv-RightSidbar]]`
+		&operand=`1`
+		&then=`<div class="row">
+			<div class="col-md-9">
+				[[*content]]
+			</div>
+			<div class="col-md-3">
+				[[$Sidebar-001]]
+			</div>
+		</div>`
+		&else=`[[*content]]`
+		&debug=`0`
+	]]
+</div>
+<footer>
+	[[$Footer-Common-Univ]]
+</footer>
+
+<!-- jScripts Chanks -->
+
+<!-- jQuery-js Chank -->
+[[!If?
+	&subject=`[[++IsUniv-jquery3]]`
+	&operand=`1`
+	&then=`[[$jquery-js-Univ]]`
+]]
+<!-- /jQuery-js Chank/ -->
+<!-- jQuery2-js Chank -->
+[[!If?
+	&subject=`[[++IsUniv-jquery2]]`
+	&operand=`1`
+	&then=`[[$jquery2-js-Univ]]`
+]]
+<!-- /jQuery2-js Chank/ -->
+<!-- jQuery1-js Chank -->
+[[!If?
+	&subject=`[[++IsUniv-jquery1]]`
+	&operand=`1`
+	&then=`[[$jquery1-js-Univ]]`
+]]
+<!-- /jQuery1-js Chank/ -->
+<!-- Popper-js Chank -->
+[[!If?
+	&subject=`[[++IsUniv-Popper]]`
+	&operand=`1`
+	&then=`[[$Popper-js-Univ]]`
+]]
+<!-- Popper-js Chank -->
+<!-- Bootstrap-js Chank -->
+[[!If?
+	&subject=`[[++IsUniv-Bootstrap]]`
+	&operand=`1`
+	&then=`[[$Bootstrap-js-Univ]]`
+]]
+<!-- /Bootstrap-js Chank/ -->
+<!-- Bootstrap3-js Chank -->
+[[!If?
+	&subject=`[[++IsUniv-Bootstrap3]]`
+	&operand=`1`
+	&then=`[[$Bootstrap3-js-Univ]]`
+]]
+<!-- /Bootstrap-js Chank/ -->
+<!-- Kube-js Chank -->
+[[!If?
+	&subject=`[[++IsUniv-Kube]]`
+	&operand=`1`
+	&then=`[[$Kube-js-Univ]]`
+]]
+<!-- /Kube-js Chank/ -->
+<!-- SmoothScroll-js Chank -->
+[[!If?
+	&subject=`[[++IsUniv-SmoothScroll]]`
+	&operand=`1`
+	&then=`[[$SmoothScroll-js-Univ]]`
+]]
+<!-- SmoothScroll-js Chank -->
+<!-- Jarallax-js Chank -->
+[[!If?
+	&subject=`[[++IsUniv-Jarallax]]`
+	&operand=`1`
+	&then=`[[$Jarallax-js-Univ]]`
+]]
+<!-- /Jarallax-js Chank/ -->
+<!-- Parallax-js Chank -->
+[[!If?
+	&subject=`[[++IsUniv-Parallax]]`
+	&operand=`1`
+	&then=`[[$Parallax-js-Univ]]`
+]]
+<!-- /Parallax-js Chank/ -->
+<!-- OldBrowsers-js Chank -->
+[[$OldBrowser-js-Univ]]
+<!-- /OldBrowsers-js Chank/ -->
+
+<!-- /jScripts Chanks/ -->
+
+</body>
+</html>

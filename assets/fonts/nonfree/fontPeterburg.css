@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'Peterburg';
+  src: url('Peterburg.eot');
+  src: url('Peterburg.woff2') format('woff2'),
+       url('Peterburg.woff') format('woff'),
+       url('Peterburg.ttf') format('truetype'),
+       url('Peterburg.svg#Peterburg') format('svg'),
+       url('Peterburg.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Peterburg';
+  src: url('Peterburg-Bold.eot');
+  src: url('Peterburg-Bold.woff2') format('woff2'),
+       url('Peterburg-Bold.woff') format('woff'),
+       url('Peterburg-Bold.ttf') format('truetype'),
+       url('Peterburg-Bold.svg#Peterburg-Bold') format('svg'),
+       url('Peterburg-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Peterburg';
+  src: url('Peterburg-Italic.eot');
+  src: url('Peterburg-Italic.woff2') format('woff2'),
+       url('Peterburg-Italic.woff') format('woff'),
+       url('Peterburg-Italic.ttf') format('truetype'),
+       url('Peterburg-Italic.svg#Peterburg-Italic') format('svg'),
+       url('Peterburg-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Peterburg';
+  src: url('Peterburg-BoldItalic.eot');
+  src: url('Peterburg-BoldItalic.woff2') format('woff2'),
+       url('Peterburg-BoldItalic.woff') format('woff'),
+       url('Peterburg-BoldItalic.ttf') format('truetype'),
+   	url('Peterburg-BoldItalic.svg#Peterburg-BoldItalic') format('svg'),
+       url('Peterburg-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+

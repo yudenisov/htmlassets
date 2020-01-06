@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'ArtScript';
+  src: url('ArtScript.eot');
+  src: url('ArtScript.woff2') format('woff2'),
+       url('ArtScript.woff') format('woff'),
+       url('ArtScript.ttf') format('truetype'),
+       url('ArtScript.svg#ArtScript') format('svg'),
+       url('ArtScript.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

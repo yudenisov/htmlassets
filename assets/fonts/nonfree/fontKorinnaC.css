@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'KorinnaC';
+  src: url('KorinnaC.eot');
+  src: url('KorinnaC.woff2') format('woff2'),
+       url('KorinnaC.woff') format('woff'),
+       url('KorinnaC.ttf') format('truetype'),
+       url('KorinnaC.svg#KorinnaC') format('svg'),
+       url('KorinnaC.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'KorinnaC';
+  src: url('KorinnaC-Bold.eot');
+  src: url('KorinnaC-Bold.woff2') format('woff2'),
+       url('KorinnaC-Bold.woff') format('woff'),
+       url('KorinnaC-Bold.ttf') format('truetype'),
+       url('KorinnaC-Bold.svg#KorinnaC-Bold') format('svg'),
+       url('KorinnaC-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'KorinnaC';
+  src: url('KorinnaC-Italic.eot');
+  src: url('KorinnaC-Italic.woff2') format('woff2'),
+       url('KorinnaC-Italic.woff') format('woff'),
+       url('KorinnaC-Italic.ttf') format('truetype'),
+       url('KorinnaC-Italic.svg#KorinnaC-Italic') format('svg'),
+       url('KorinnaC-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'KorinnaC';
+  src: url('KorinnaC-BoldItalic.eot');
+  src: url('KorinnaC-BoldItalic.woff2') format('woff2'),
+       url('KorinnaC-BoldItalic.woff') format('woff'),
+       url('KorinnaC-BoldItalic.ttf') format('truetype'),
+       url('KorinnaC-BoldItalic.svg#KorinnaC-BoldItalic') format('svg'),
+       url('KorinnaC-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: bold;
+  font-style: italic;
+}

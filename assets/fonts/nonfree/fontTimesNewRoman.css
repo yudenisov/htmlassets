@@ -1,0 +1,40 @@
+@font-face{
+font-family: 'Times New Roman';
+font-weight: normal;
+font-style: normal;
+src: url('SIMES.eot');
+src: url('SIMES.eot?iefix') format('eot'),
+url('SIMES.woff') format('woff'),
+url('SIMES.TTF') format('truetype'),
+url('SIMES.svg#webfont') format('svg');
+}
+@font-face{
+font-family: 'Times New Roman';
+font-weight: bold;
+font-style: normal;
+src: url('SIMESBD.eot');
+src: url('SIMESBD.eot?iefix') format('eot'),
+url('SIMESBD.woff') format('woff'),
+url('SIMESBD.TTF') format('truetype'),
+url('SIMESBD.svg#webfont') format('svg');
+}
+@font-face{
+font-family: 'Times New Roman';
+font-weight: normal;
+font-style: italic;
+src: url('SIMESI.eot');
+src: url('SIMESI.eot?iefix') format('eot'),
+url('SIMESI.woff') format('woff'),
+url('SIMESI.TTF') format('truetype'),
+url('SIMESI.svg#webfont') format('svg');
+}
+@font-face{
+font-family: 'Times New Roman';
+font-weight: bold;
+font-style: italic;
+src: url('SIMESBI.eot');
+src: url('SIMESBI.eot?iefix') format('eot'),
+url('SIMESBI.woff') format('woff'),
+url('SIMESBI.TTF') format('truetype'),
+url('SIMESBI.svg#webfont') format('svg');
+}

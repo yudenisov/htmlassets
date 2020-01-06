@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'a_Helver';
+  src: url('AHelver.eot');
+  src: url('AHelver.woff2') format('woff2'),
+       url('AHelver.woff') format('woff'),
+       url('AHelver.ttf') format('truetype'),
+       url('AHelver.svg#AHelver') format('svg'),
+       url('AHelver.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'a_Helver';
+  src: url('AHelverBold.eot');
+  src: url('AHelverBold.woff2') format('woff2'),
+       url('AHelverBold.woff') format('woff'),
+       url('AHelverBold.ttf') format('truetype'),
+       url('AHelverBold.svg#AHelverBold') format('svg'),
+       url('AHelverBold.eot?#iefix') format('embedded-opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'a_Helver';
+  src: url('AHelverItalic.eot');
+  src: url('AHelverItalic.woff2') format('woff2'),
+       url('AHelverItalic.woff') format('woff'),
+       url('AHelverItalic.ttf') format('truetype'),
+       url('AHelverItalic.svg#AHelverItalic') format('svg'),
+       url('AHelverItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'a_Helver';
+  src: url('AHelverBoldItalic.eot');
+  src: url('AHelverBoldItalic.woff2') format('woff2'),
+       url('AHelverBoldItalic.woff') format('woff'),
+       url('AHelverBoldItalic.ttf') format('truetype'),
+       url('AHelverBoldItalic.svg#AHelverBoldItalic') format('svg'),
+       url('AHelverBoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+

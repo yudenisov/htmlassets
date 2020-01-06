@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Decor';
+  src: url('Decor.eot');
+  src: url('Decor.woff2') format('woff2'),
+       url('Decor.woff') format('woff'),
+       url('Decor.ttf') format('truetype'),
+       url('Decor.svg#Decor') format('svg'),
+       url('Decor.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Decor';
+  src: url('Decor-Bold.eot');
+  src: url('Decor-Bold.woff2') format('woff2'),
+       url('Decor-Bold.woff') format('woff'),
+       url('Decor-Bold.ttf') format('truetype'),
+       url('Decor-Bold.svg#Decor-Bold') format('svg'),
+       url('Decor-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+

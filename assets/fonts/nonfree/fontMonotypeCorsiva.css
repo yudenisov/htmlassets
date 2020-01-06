@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MonotypeCorsiva';
+  src: url('MonotypeCorsiva.eot');
+  src: url('MonotypeCorsiva.woff2') format('woff2'),
+       url('MonotypeCorsiva.woff') format('woff'),
+       url('MonotypeCorsiva.ttf') format('truetype'),
+       url('MonotypeCorsiva.svg#MonotypeCorsiva') format('svg'),
+       url('MonotypeCorsiva.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'PopularScript';
+  src: url('PopularScript.eot');
+  src: url('PopularScript.woff2') format('woff2'),
+       url('PopularScript.woff') format('woff'),
+       url('PopularScript.ttf') format('truetype'),
+       url('PopularScript.svg#PopularScript') format('svg'),
+       url('PopularScript.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
